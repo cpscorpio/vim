@@ -50,3 +50,6 @@ set incsearch
 "不要备份文件
 set nobackup
 set nowb
+
+let g:winManagerWindowLayout='FileExplorer|TagList'
+nmap wm :WMToggle<cr>
