@@ -53,3 +53,18 @@ set nowb
 
 let g:winManagerWindowLayout='FileExplorer|TagList'
 nmap wm :WMToggle<cr>
+
+execut pathogen#infect()
+
+"powerline{
+set encoding=utf8
+set laststatus=2
+set t_Co=256
+let g:Powerline_symbols = 'unicode'
+"}
+
+"{tagList
+let Tlist_Show_One_File=1
+let Tlist_Exit_OnlyWindow=1
+let Tlist_Show_Menu=1
+"}
