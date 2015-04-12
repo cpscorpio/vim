@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/chenpeng/Documents/H30/client/script/ui'
+let g:netrw_dirhist_2='/Users/chenpeng/Documents/H30/client/script'
+let g:netrw_dirhist_3='/Users/chenpeng/Documents/H30/client/script/helper'
+let g:netrw_dirhist_4='/Users/chenpeng'
+let g:netrw_dirhist_5='/Users/chenpeng/.vim'
+let g:netrw_dirhist_6='/Users/chenpeng'
+let g:netrw_dirhist_7='/Users'
+let g:netrw_dirhist_8='/'
+let g:netrw_dirhist_9='/Users/chenpeng'
